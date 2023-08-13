@@ -1,0 +1,343 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Array_Linearsearchsamosa",
+            "request": "launch",
+            "mainClass": "Array_Linearsearchsamosa",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Array_linearsearch",
+            "request": "launch",
+            "mainClass": "Array_linearsearch",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Array_byrefrance",
+            "request": "launch",
+            "mainClass": "Array_byrefrance",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_Advance_Diamond",
+            "request": "launch",
+            "mainClass": "Pattern_Advance_Diamond",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_Advance_Hollow_rectangle",
+            "request": "launch",
+            "mainClass": "Pattern_Advance_Hollow_rectangle",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_Advance_crossRectangle",
+            "request": "launch",
+            "mainClass": "Pattern_Advance_crossRectangle",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_Advance_Butterfly_pattern",
+            "request": "launch",
+            "mainClass": "Pattern_Advance_Butterfly_pattern",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_Advance_0_1_triangle",
+            "request": "launch",
+            "mainClass": "Pattern_Advance_0_1_triangle",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_advance_1234",
+            "request": "launch",
+            "mainClass": "Pattern_advance_1234",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_Advance_halfpyramid_numbers",
+            "request": "launch",
+            "mainClass": "Pattern_Advance_halfpyramid_numbers",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_Advance_half_Pyramid",
+            "request": "launch",
+            "mainClass": "Pattern_Advance_half_Pyramid",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_Advance_Hollowrectabglr",
+            "request": "launch",
+            "mainClass": "Pattern_Advance_Hollowrectabglr",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "prime_practice",
+            "request": "launch",
+            "mainClass": "prime_practice",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_B_ABCD",
+            "request": "launch",
+            "mainClass": "Pattern_B_ABCD",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_B_123",
+            "request": "launch",
+            "mainClass": "Pattern_B_123",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_Basic2_Decrease",
+            "request": "launch",
+            "mainClass": "Pattern_Basic2_Decrease",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_Basic_Inrease",
+            "request": "launch",
+            "mainClass": "Pattern_Basic_Inrease",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Function_Q3_Palidrome",
+            "request": "launch",
+            "mainClass": "Function_Q3_Palidrome",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Function_Q2_Even",
+            "request": "launch",
+            "mainClass": "Function_Q2_Even",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Function_Q1_Averageof3No",
+            "request": "launch",
+            "mainClass": "Function_Q1_Averageof3No",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "DecimalToBinary",
+            "request": "launch",
+            "mainClass": "DecimalToBinary",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Function_BinaryToDecimal",
+            "request": "launch",
+            "mainClass": "Function_BinaryToDecimal",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Function_Primeinrange",
+            "request": "launch",
+            "mainClass": "Function_Primeinrange",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Function_primenumber",
+            "request": "launch",
+            "mainClass": "Function_primenumber",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Function_overloading",
+            "request": "launch",
+            "mainClass": "Function_overloading",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Function_Binomialcoefficent",
+            "request": "launch",
+            "mainClass": "Function_Binomialcoefficent",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Function_factorial",
+            "request": "launch",
+            "mainClass": "Function_factorial",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Loop_Q5",
+            "request": "launch",
+            "mainClass": "Loop_Q5",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Function_multiply",
+            "request": "launch",
+            "mainClass": "Function_multiply",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Functon",
+            "request": "launch",
+            "mainClass": "Functon",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Break_statement",
+            "request": "launch",
+            "mainClass": "Break_statement",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Break_statment2",
+            "request": "launch",
+            "mainClass": "Break_statment2",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Continueloop",
+            "request": "launch",
+            "mainClass": "Continueloop",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Do_while",
+            "request": "launch",
+            "mainClass": "Do_while",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Function_Q1",
+            "request": "launch",
+            "mainClass": "Function_Q1",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Function_Q2",
+            "request": "launch",
+            "mainClass": "Function_Q2",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Function_Q3",
+            "request": "launch",
+            "mainClass": "Function_Q3",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Function_Q4",
+            "request": "launch",
+            "mainClass": "Function_Q4",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Function_Q5",
+            "request": "launch",
+            "mainClass": "Function_Q5",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Functions",
+            "request": "launch",
+            "mainClass": "Functions",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_number",
+            "request": "launch",
+            "mainClass": "Reverse_number",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Reversenumber2",
+            "request": "launch",
+            "mainClass": "Reversenumber2",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "continue_loop2",
+            "request": "launch",
+            "mainClass": "continue_loop2",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "forloop",
+            "request": "launch",
+            "mainClass": "forloop",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "forloop_pattern",
+            "request": "launch",
+            "mainClass": "forloop_pattern",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "javaB",
+            "request": "launch",
+            "mainClass": "javaB",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "prime_number",
+            "request": "launch",
+            "mainClass": "prime_number",
+            "projectName": "Java programms_d09558fb"
+        }
+    ]
+}
