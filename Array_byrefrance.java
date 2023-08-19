@@ -3,6 +3,9 @@ public class Array_byrefrance
      public static void update(int marks[],int nonchangble)
      {
         nonchangble=10;
+
+        
+        
         for(int i=0;i<marks.length;i++)
         {
             marks[i]=marks[i]+1;
