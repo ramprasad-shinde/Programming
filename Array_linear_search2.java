@@ -7,7 +7,10 @@ public class Array_linear_search2
         {
             System.out.println("eliagble for vote");
         }
-        else
+        else  
+
+
+        
         {
             System.out.println("not eliagble");
         }
