@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Array_pairs",
+            "request": "launch",
+            "mainClass": "Array_pairs",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Array_reversearray",
+            "request": "launch",
+            "mainClass": "Array_reversearray",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
             "name": "Array_Binarysearch",
             "request": "launch",
             "mainClass": "Array_Binarysearch",

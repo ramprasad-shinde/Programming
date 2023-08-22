@@ -23,10 +23,10 @@ public class Array_Binarysearch
         }
      }
      return -1;
-   } 
+   }
    public static void main(String[] args) 
    {
-       int numbers[] = {2,4,6,8,10,12,14,}; 
+       int numbers[] = {2,4,6,8,10,12,14}; 
        int key=70;
 
        System.out.println("Index for key :"+binarysearch(numbers, key));
