@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "array_subarrysum_oractice",
+            "request": "launch",
+            "mainClass": "array_subarrysum_oractice",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Array_subarray",
+            "request": "launch",
+            "mainClass": "Array_subarray",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
             "name": "Array_pairs",
             "request": "launch",
             "mainClass": "Array_pairs",
