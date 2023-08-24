@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Array_maxsum_kadans_algorithm",
+            "request": "launch",
+            "mainClass": "Array_maxsum_kadans_algorithm",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
             "name": "Array_prefixarray_method_subarray_max",
             "request": "launch",
             "mainClass": "Array_prefixarray_method_subarray_max",
