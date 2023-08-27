@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Array_3rd_maxsunbarray",
+            "request": "launch",
+            "mainClass": "DSA_Sheet.Array_3rd_maxsunbarray",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Array_2nd_reverse_array",
+            "request": "launch",
+            "mainClass": "DSA_Sheet.Array_2nd_reverse_array",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Array_1st_min_max",
+            "request": "launch",
+            "mainClass": "DSA_Sheet.Array_1st_min_max",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Array_buy_and_sell_stock",
+            "request": "launch",
+            "mainClass": "Array_buy_and_sell_stock",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Array_trapedwater_practice",
+            "request": "launch",
+            "mainClass": "Array_trapedwater_practice",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
             "name": "Array_trapingrainwater",
             "request": "launch",
             "mainClass": "Array_trapingrainwater",
