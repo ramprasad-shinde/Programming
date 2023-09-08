@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Strings_isPalidrome",
+            "request": "launch",
+            "mainClass": "Strings_isPalidrome",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
             "name": "String_Printleters",
             "request": "launch",
             "mainClass": "String_Printleters",
