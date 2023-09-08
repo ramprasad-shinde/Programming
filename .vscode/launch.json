@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Strings_input",
+            "request": "launch",
+            "mainClass": "Strings_input",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Matrices_2darray_findsmallno",
+            "request": "launch",
+            "mainClass": "Matrices_2darray_findsmallno",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Matrces_2d_array",
+            "request": "launch",
+            "mainClass": "Matrces_2d_array",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Sorting_Q4_countionsort",
+            "request": "launch",
+            "mainClass": "Sorting_Q4_countionsort",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Sorting_Q3_Insertionsort",
+            "request": "launch",
+            "mainClass": "Sorting_Q3_Insertionsort",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Sorting_Q2_selectionsort",
+            "request": "launch",
+            "mainClass": "Sorting_Q2_selectionsort",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Sorting_Q1_bubblesort",
+            "request": "launch",
+            "mainClass": "Sorting_Q1_bubblesort",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Sorting_Countingsort",
+            "request": "launch",
+            "mainClass": "Sorting_Countingsort",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Sorting_Insertionsort",
+            "request": "launch",
+            "mainClass": "Sorting_Insertionsort",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Sorting_Selection_sort",
+            "request": "launch",
+            "mainClass": "Sorting_Selection_sort",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Sorting_Bubble_sort",
+            "request": "launch",
+            "mainClass": "Sorting_Bubble_sort",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
             "name": "Array_3rd_maxsunbarray",
             "request": "launch",
             "mainClass": "DSA_Sheet.Array_3rd_maxsunbarray",

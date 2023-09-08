@@ -3,7 +3,7 @@ public class Pattern_Advance_half_Pyramid
    public static void Half_pyramid(int n)
    {
    
-   for(int i=1;i<=n;i++)
+   for(int i=1;i<=n;i++)  
    {    
      for(int j=1; j<=n-i;j++)  // this loop for print spaces
      {
