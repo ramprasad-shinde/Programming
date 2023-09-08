@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "String_Printleters",
+            "request": "launch",
+            "mainClass": "String_Printleters",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
             "name": "Strings_input",
             "request": "launch",
             "mainClass": "Strings_input",
