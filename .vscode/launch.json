@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "String_StringBuilder",
+            "request": "launch",
+            "mainClass": "String_StringBuilder",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Strings_compareTO_function",
+            "request": "launch",
+            "mainClass": "Strings_compareTO_function",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Strings_Substring_function",
+            "request": "launch",
+            "mainClass": "Strings_Substring_function",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Strings_equals_method",
+            "request": "launch",
+            "mainClass": "Strings_equals_method",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
             "name": "Strings_getshortest_path",
             "request": "launch",
             "mainClass": "Strings_getshortest_path",
