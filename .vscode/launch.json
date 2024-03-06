@@ -6,6 +6,398 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Pattern_Diamond",
+            "request": "launch",
+            "mainClass": "Practice.Pattern_Diamond",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_Rhombus",
+            "request": "launch",
+            "mainClass": "Practice.Pattern_Rhombus",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Butterfly_Patern",
+            "request": "launch",
+            "mainClass": "Practice.Butterfly_Patern",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Pattern_01_Triangle",
+            "request": "launch",
+            "mainClass": "Practice.Pattern_01_Triangle",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Invertedno_triangle",
+            "request": "launch",
+            "mainClass": "Practice.Invertedno_triangle",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "inverted_number_pattern",
+            "request": "launch",
+            "mainClass": "Practice.inverted_number_pattern",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "inverted_half_pattern",
+            "request": "launch",
+            "mainClass": "Practice.inverted_half_pattern",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Hollow_pattern",
+            "request": "launch",
+            "mainClass": "Practice.practice.Hollow_pattern",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "FunQ5",
+            "request": "launch",
+            "mainClass": "Practice.practice.FunQ5",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "fubQ3_palindrome",
+            "request": "launch",
+            "mainClass": "Practice.practice.fubQ3_palindrome",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "FunQ2_evenodd",
+            "request": "launch",
+            "mainClass": "Practice.practice.FunQ2_evenodd",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "FunQ1_avrage",
+            "request": "launch",
+            "mainClass": "Practice.practice.FunQ1_avrage",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Decimal_to_Binary",
+            "request": "launch",
+            "mainClass": "Practice.Decimal_to_Binary",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Binary_to_Decimal",
+            "request": "launch",
+            "mainClass": "Practice.Binary_to_Decimal",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "isprime_range",
+            "request": "launch",
+            "mainClass": "Practice.practice.isprime_range",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Nois_primeornot",
+            "request": "launch",
+            "mainClass": "Practice.practice.Nois_primeornot",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "fun_primeornot",
+            "request": "launch",
+            "mainClass": "Practice.practice.fun_primeornot",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "Practice.practice.calculator",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "Practice.practice.factorial",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Callbyvaluee",
+            "request": "launch",
+            "mainClass": "Practice.practice.Callbyvaluee",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "patterncharacterpattenr",
+            "request": "launch",
+            "mainClass": "Practice.practice.patterncharacterpattenr",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Patternhalfpyrimid",
+            "request": "launch",
+            "mainClass": "Practice.practice.Patternhalfpyrimid",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Pattern1",
+            "request": "launch",
+            "mainClass": "Practice.practice.Pattern1",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "Practice.practice.reverse",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "LoopQ3_factorial",
+            "request": "launch",
+            "mainClass": "Practice.LoopQ3_factorial",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Loop_Q4_multiplicationtable",
+            "request": "launch",
+            "mainClass": "Practice.Loop_Q4_multiplicationtable",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "LoopQ3_sumofevenandodd",
+            "request": "launch",
+            "mainClass": "Practice.LoopQ3_sumofevenandodd",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "LoopQ1",
+            "request": "launch",
+            "mainClass": "Practice.LoopQ1",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "NO_is_primeornot",
+            "request": "launch",
+            "mainClass": "Practice.NO_is_primeornot",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Break_Statement",
+            "request": "launch",
+            "mainClass": "Practice.Break_Statement",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "DO_While",
+            "request": "launch",
+            "mainClass": "Practice.DO_While",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_Number",
+            "request": "launch",
+            "mainClass": "Practice.Reverse_Number",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Loop",
+            "request": "launch",
+            "mainClass": "Practice.Loop",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Loop",
+            "request": "launch",
+            "mainClass": "Practice.practice.Loop",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "SumofnaturalNO",
+            "request": "launch",
+            "mainClass": "Practice.practice.SumofnaturalNO",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Whileloop",
+            "request": "launch",
+            "mainClass": "Practice.practice.Whileloop",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Year_is_Leap_year",
+            "request": "launch",
+            "mainClass": "Practice.practice.Year_is_Leap_year",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Control_statment",
+            "request": "launch",
+            "mainClass": "Practice.practice.Control_statment",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Switch_case",
+            "request": "launch",
+            "mainClass": "Practice.practice.Switch_case",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Ternary_operator",
+            "request": "launch",
+            "mainClass": "Ternary_operator",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Printlargest_number",
+            "request": "launch",
+            "mainClass": "Practice.practice.Printlargest_number",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Incomtax_calculator",
+            "request": "launch",
+            "mainClass": "Practice.practice.Incomtax_calculator",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Number_even_odd",
+            "request": "launch",
+            "mainClass": "Practice.practice.Number_even_odd",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "ICondition_Statement",
+            "request": "launch",
+            "mainClass": "Practice.practice.ICondition_Statement",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Operator_Q1",
+            "request": "launch",
+            "mainClass": "Practice.practice.Operator_Q1",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Assignment_oprator",
+            "request": "launch",
+            "mainClass": "Practice.practice.Assignment_oprator",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "operator",
+            "request": "launch",
+            "mainClass": "Practice.practice.operator",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Variable_Q4",
+            "request": "launch",
+            "mainClass": "Practice.practice.Variable_Q4",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "VariavleQ3",
+            "request": "launch",
+            "mainClass": "Practice.practice.VariavleQ3",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Varaible_Q2_areofsquare",
+            "request": "launch",
+            "mainClass": "Practice.practice.Varaible_Q2_areofsquare",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Varaibles_Q1_Avrage",
+            "request": "launch",
+            "mainClass": "Practice.practice.Varaibles_Q1_Avrage",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "typez_casting",
+            "request": "launch",
+            "mainClass": "Practice.practice.typez_casting",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "Practice.practice.sum",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "nobigger",
+            "request": "launch",
+            "mainClass": "nobigger",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "Strings_Compress_String",
+            "request": "launch",
+            "mainClass": "Strings_Compress_String",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
+            "name": "String_toUppercase",
+            "request": "launch",
+            "mainClass": "String_toUppercase",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
             "name": "String_StringBuilder",
             "request": "launch",
             "mainClass": "String_StringBuilder",
