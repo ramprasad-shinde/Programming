@@ -11,6 +11,6 @@ public class Do_while
              k++;
              i++;
         } 
-        while(i<=10);
+        while(i<=20);
     }
 }
