@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "Practice.practice.hello",
+            "projectName": "Java programms_d09558fb"
+        },
+        {
+            "type": "java",
             "name": "Pattern_Diamond",
             "request": "launch",
             "mainClass": "Practice.Pattern_Diamond",
